@@ -1,0 +1,8 @@
+'''
+Created on 2018Äê1ÔÂ22ÈÕ
+
+@author: zhang
+'''
+
+print("hello world");
+print(2**8);

@@ -1,0 +1,21 @@
+#coding=utf-8
+class SchoolMember:
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age
+        print('(initialized school %s)' % self.name )
+    
+    def tell(self):
+        print('age:%d name:%s' % (self.age,self.name))
+
+class Teacher(SchoolMember):
+    def __init__(self,name,age,salary):
+        SchoolMember.__init__(self, name, age)
+        self.salary=salary
+    def tell(self):
+        SchoolMember.tell(self,self.salary)
+        
+s = SchoolMember('zhang',11)
+s.tell()
+t = Teacher('wang',21,100)
+t.tell()    

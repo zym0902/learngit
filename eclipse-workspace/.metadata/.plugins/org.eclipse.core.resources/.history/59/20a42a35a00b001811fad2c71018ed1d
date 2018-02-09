@@ -1,0 +1,6 @@
+#coding=utf-8
+from idlelib.browser import file_open
+str='aaa\
+bbb\
+ccc'
+f = file

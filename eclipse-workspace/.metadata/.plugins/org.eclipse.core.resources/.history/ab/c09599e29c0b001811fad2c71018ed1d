@@ -1,0 +1,4 @@
+#coding=utf-8
+from test.test_math import file
+str = ' i am zhang'
+f = file("poem.txt",w)

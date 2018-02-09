@@ -1,0 +1,12 @@
+#coding=utf-8
+#类似于java的构造器
+class Person:
+    def __init__(self,name,age):
+        self.name = name
+        self.age = age
+    def sayHello(self):
+        print(self.name)
+        print(self.age)
+        
+p = Person('zhang',11)
+p.sayHello()

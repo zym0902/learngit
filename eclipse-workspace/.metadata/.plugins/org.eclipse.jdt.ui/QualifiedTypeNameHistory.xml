@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="myPcg5.StackByLink"/>
+    <fullyQualifiedTypeName name="myPcg7.Linked_List_Queue"/>
+    <fullyQualifiedTypeName name="myPcg8.Linked_List_Queue"/>
+    <fullyQualifiedTypeName name="myPcg10.BinaryTree"/>
+    <fullyQualifiedTypeName name="myPcg11.TreeNode"/>
+    <fullyQualifiedTypeName name="myPcg11.BinarySearchTree"/>
+    <fullyQualifiedTypeName name="myPcg11.ExpressionTree"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.PresentationDirection"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="myPcg12.BinaryTree"/>
+    <fullyQualifiedTypeName name="myPcg13.BinarySearch"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="myPcg14.ThreadBinaryTree"/>
+    <fullyQualifiedTypeName name="myPcg14.THreadedBinaryTree"/>
+    <fullyQualifiedTypeName name="myPcg16.GraphLink"/>
+    <fullyQualifiedTypeName name="myPkg1.MyList"/>
+    <fullyQualifiedTypeName name="myPkg1.LinkListImpl"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="javax.tools.JavaCompiler"/>
+    <fullyQualifiedTypeName name="javax.tools.ToolProvider"/>
+    <fullyQualifiedTypeName name="javax.tools.StandardJavaFileManager"/>
+    <fullyQualifiedTypeName name="javax.tools.JavaFileObject"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,9 @@
+#coding=utf-8
+class Person:
+    def __init__(self,name):
+        self.name = name
+    def sayHello(self):
+        print("hello"+self.name)
+        
+p = Person('zhang')
+p.sayHello()

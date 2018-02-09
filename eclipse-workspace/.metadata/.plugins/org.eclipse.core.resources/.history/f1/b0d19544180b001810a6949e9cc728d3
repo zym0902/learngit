@@ -1,0 +1,11 @@
+#coding=utf-8
+#类的方法与普通的函数有一个特殊的区别，他们必须有一个额外的第一个参数名称，但是
+#在调用这个方法时你不为这个参数赋值
+class Person:
+    str="aaa"
+    def add(self,a,b):
+        print(a+b)
+        print(self.str)
+        
+p = Person()
+p.add(1,2)

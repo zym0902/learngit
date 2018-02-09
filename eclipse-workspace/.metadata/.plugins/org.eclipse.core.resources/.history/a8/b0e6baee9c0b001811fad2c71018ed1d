@@ -1,0 +1,3 @@
+#coding=utf-8
+str = ' i am zhang'
+f = file("poem.txt",w)

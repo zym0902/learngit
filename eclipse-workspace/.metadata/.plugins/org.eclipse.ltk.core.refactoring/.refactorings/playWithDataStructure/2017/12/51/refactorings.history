@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;myPkg4.kMP&apos; to &apos;KMP&apos;&#x0D;&#x0A;- Original project: &apos;playWithDataStructure&apos;&#x0D;&#x0A;- Original element: &apos;myPkg4.kMP&apos;&#x0D;&#x0A;- Renamed element: &apos;myPkg4.KMP&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;kMP&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;myPkg4{kMP.java[kMP" matchStrategy="1" name="KMP" qualified="false" references="true" similarDeclarations="false" stamp="1513515583204" textual="false" version="1.0"/>
+</session>

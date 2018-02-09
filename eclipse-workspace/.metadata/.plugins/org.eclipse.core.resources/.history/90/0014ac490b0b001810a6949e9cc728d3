@@ -1,0 +1,7 @@
+#coding=utf-8
+class Person:
+    def add(self,other):
+        print(self+other)
+        
+p = Person()
+p.add(2)
